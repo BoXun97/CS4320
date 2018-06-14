@@ -1,7 +1,6 @@
 ![Error](/Challenge1/ChineseMap.png)
 
 ~~Boao Huang~~
-
 #**CHINESE CULTURE**
 >* Chinese History
 >* Chinese Language
