@@ -1,4 +1,4 @@
-![Error](https://i.imgur.com/L1vQrAU.png)
+![Error](/Challenge1/ChineseMap.png)
 
 ~~Boao Huang~~
 
