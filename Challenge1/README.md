@@ -3,10 +3,10 @@
 ~~Boao Huang~~
 
 #**CHINESE CULTURE**
->1. Chinese History
->2. Chinese Language
->3. Chinese Food  
->4. Chinese Nation
+>* Chinese History
+>* Chinese Language
+>* Chinese Food  
+>* Chinese Nation
 
 ---
 ##*Chinese History*
@@ -48,7 +48,7 @@
 >Chinese is generally divided into 13 dialects, and each dialect can be divided into many sub dialects. The thirteen types of Chinese dialects are: Mandarin, Jin, Cantonese, Hunan, Wu, Hui, Gan, Hakka, Northern Fujian, min, min, min, Puxian and Puxian. There are other disputed dialects such as ordinary dialect.
 
 ###*Chinese Food*
-[View the Chinese recipe](SecondPage.md)
+[View the Chinese recipe]()
 
 
 ####*Chinese nation*
