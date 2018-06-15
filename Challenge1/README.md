@@ -2,14 +2,14 @@
 
 ~~Boao Huang~~
 
-#**CHINESE CULTURE**
+# **CHINESE CULTURE**
 >* Chinese History
 >* Chinese Language
 >* Chinese Food  
 >* Chinese Nation
 
 ---
-##*Chinese History*
+## *Chinese History*
 |DYNASTY|STARTING and ENDING TIME|
 |:-|:-|
 |Hsia Dynasty|2070-1600 B.C.|
@@ -36,7 +36,7 @@
 |Republic of China|1912-1949 A.D.|
 |People's Republic of China|1949.10.1|
 
-###*Chinese Language*
+### *Chinese Language*
 >Chinese, the language of the Han, is one of the common languages of China and one of the international common languages. It belongs to the Chinese Tibetan language. It is related to Tibetan, Zhuang, Dai, Dong, Li, Yi, Miao, Yao, Thai and Burmese in China.
 
 >The number of people in Chinese is at least 1 billion 500 million, more than 20% of the world's total population. It is the official language of China and Singapore and one of the six working languages of the United Nations. It mainly circulated in Southeast Asian countries such as China and Singapore, Malaysia, Burma, Thailand and other countries of the United States, Canada, Australia, New Zealand, Japan and other countries. Ethnic Chinese community.
@@ -47,11 +47,11 @@
 
 >Chinese is generally divided into 13 dialects, and each dialect can be divided into many sub dialects. The thirteen types of Chinese dialects are: Mandarin, Jin, Cantonese, Hunan, Wu, Hui, Gan, Hakka, Northern Fujian, min, min, min, Puxian and Puxian. There are other disputed dialects such as ordinary dialect.
 
-###*Chinese Food*
+### *Chinese Food*
 [View the Chinese recipe](SecondPage.md)
 
 
-####*Chinese nation*
+#### *Chinese nation*
 >According to the results of the national census of 2000, in addition to the Han nationality, among the 55 ethnic minorities, there are 18 people over a million people. They are: Mongolia, Hui, Tibetan, Uygur, Miao, Yi, Zhuang, Buyi, DPRK, Manchu, Dong, Yao, Bai, Tujia, Hani, hasaki, Dai, Li and other ethnic groups. Among them, the population of the Zhuang nationality is the largest, which is about 16000000. There are 15 nationalities with more than 100 thousand people below the population of more than a million people. They are: Su Su, WA, she, Lahu, water, Dongxiang, Naxi, Jingpo, Kirgiz, earth, Daur, mu, Qiang, qioyan, Xibe and other ethnic groups. There are 15 ethnic minorities with more than 10 thousand people below 100 thousand people. They are Brown, Sarah, Maonan, archang, Pumi, Tajik, wrath, uzin Buick, Russia, Ewenk, de on, security, Yugu, Jing, Gino. There are 7 nationalities with the population of less than 10 thousand people. They are the ethnic groups such as Ma Ba, Oroqen, Dulong, tartal, Hezhe, alpine, and Luo BA (according to the number of people in the field survey) and the people of the people. In addition, there are more than 73.4 people with uncertain ethnic composition.
 
 
