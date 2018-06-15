@@ -57,7 +57,14 @@
 ---
 
 <p>Welcome to Learn Chinese Culture</p>
-
+<br/>
+<dl>
+  <dt>Designer:</dt>
+  <dd>Boao Huang</dd>
+  
+  <dt>Date:</dt>
+  <dd>06/14/2018</dd>
+</dl>
 
 
 
