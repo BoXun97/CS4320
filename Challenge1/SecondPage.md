@@ -15,4 +15,6 @@ In addition to the eight major cuisines, there are some subdivision cuisines in 
 
 ![Error](http://www.kedo.gov.cn/upload/resources/image/2015/06/24/90333.jpg)
 
+---
+
 [GO BACK HOME PAGE](README.md)
