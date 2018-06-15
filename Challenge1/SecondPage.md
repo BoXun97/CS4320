@@ -2,7 +2,7 @@
 
 ~~Boao Huang~~
 
-##*Mapo ToFu Recipe*
+## *Mapo ToFu Recipe*
 >Cuisine, also known as "help vegetables", refers to the selection, cutting, cooking and other skills, after a long period of evolution and self-made system, with distinctive local flavor characteristics, and for the society's recognized cuisine of Chinese cuisine.
 The cuisine of Chinese food culture refers to a complete set of self-contained cooking skills and flavors in a certain area, due to the different climate, geography, history, property and dietary customs, and the local cuisine recognized throughout the country.
 As early as the Shang and Zhou dynasties, China's dietary culture had a prototype, which was the most representative of the Tai Gong, and then to the period of the Qi Huan of the spring and Autumn period and the Warring States period, the cuisine culture in the north and South dishes showed differences. In the Tang and Song Dynasties, the Southern food and the northern food formed their respective systems. In the Southern Song Dynasty, the southern sweet and Northern salty pattern came into being. At the beginning of the Qing Dynasty, Shandong cuisine, Sichuan cuisine, Cantonese cuisine and Jiangsu cuisine became the most influential local cuisines at that time. They were called the four major cuisines. By the end of the Qing Dynasty, four new local cuisines of Zhejiang cuisine, Fujian cuisine, Hunan cuisine and Anhui cuisine were formed and formed the eight major cuisines of Chinese traditional diet.
