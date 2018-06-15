@@ -8,6 +8,8 @@
 >* Chinese Food  
 >* Chinese Nation
 
+[Learn Chinese Culture](https://en.wikipedia.org/wiki/Chinese_culture "From Wikipedia")
+
 ---
 ## *Chinese History*
 |DYNASTY|STARTING and ENDING TIME|
