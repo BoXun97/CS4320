@@ -54,7 +54,7 @@
 #### *Chinese nation*
 > According to the results of the national census of 2000, in addition to the Han nationality, among the 55 ethnic minorities, there are 18 people over a million people. They are: Mongolia, Hui, Tibetan, Uygur, Miao, Yi, Zhuang, Buyi, DPRK, Manchu, Dong, Yao, Bai, Tujia, Hani, hasaki, Dai, Li and other ethnic groups. Among them, the population of the Zhuang nationality is the largest, which is about 16000000. There are 15 nationalities with more than 100 thousand people below the population of more than a million people. They are: Su Su, WA, she, Lahu, water, Dongxiang, Naxi, Jingpo, Kirgiz, earth, Daur, mu, Qiang, qioyan, Xibe and other ethnic groups. There are 15 ethnic minorities with more than 10 thousand people below 100 thousand people. They are Brown, Sarah, Maonan, archang, Pumi, Tajik, wrath, uzin Buick, Russia, Ewenk, de on, security, Yugu, Jing, Gino. There are 7 nationalities with the population of less than 10 thousand people. They are the ethnic groups such as Ma Ba, Oroqen, Dulong, tartal, Hezhe, alpine, and Luo BA (according to the number of people in the field survey) and the people of the people. In addition, there are more than 73.4 people with uncertain ethnic composition.
 
-
+---
 
 <p>Welcome to Learn Chinese Culture</p>
 
