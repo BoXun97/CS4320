@@ -1,3 +1,3 @@
 Boao Huang
 
-![Error](/Challenge Alarm Clock Use Case/use case dagram.jpg)
+![Error](/Challenge Alarm Clock Use Case/use case diagram.jpg)
