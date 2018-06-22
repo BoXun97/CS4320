@@ -22,9 +22,11 @@
 |Scenario|Create a alarm clock include clock setting and alarm setting|
 |:-|:-|
 |Triggering event|User can set alarm clock and turn off the alarm of clock|
-|Actor|User and Alarm clock|
+|Actor|User|
 |Related use cases|N/A|
 |Stakeholders|Alarm clock user, merchant, customer|
-|Pre-condition|
-|Post-condition|
+|Pre-condition|User can set the time display and the alarm|
+|Post-condition|User can turn off the noise of clock or the clock can turn off by itself|
+|Flow of events|Actor:   1.Use uses the buttom to set time display 2.User uses the buttom to set the mode of alarm    System:     1.Clock will display time in different way 2.Clock will be set in different way to alarm and turn off|
+
 
