@@ -17,7 +17,7 @@
 
 **Use Case Description**
 
-> Description - 
+> Description - This part is helpful for people to create a software of alarm clock. User can set many ways of clock to display, alarm, and turn off. It divide the work into many block. It helps people to solve the problem when they are developing the software.
 
 |Scenario|Create a alarm clock include clock setting and alarm setting|
 |:-|:-|
@@ -27,6 +27,7 @@
 |Stakeholders|Alarm clock user, merchant, customer|
 |Pre-condition|User can set the time display and the alarm|
 |Post-condition|User can turn off the noise of clock or the clock can turn off by itself|
-|Flow of events|Actor:    1.Use uses the buttom to set time display    2.User uses the buttom to set the mode of alarm      System:      1.Clock will display time in different way     2.Clock will be set in different way to alarm and turn off|
+|Flow of events|Actor:    1.User uses the buttom to set time display    3.User uses the buttom to set the mode of alarm  5.User can turn off the alarm clock's noise by different way     System:      2.Clock will display time in different way     4.Clock will be set in different way to alarm and turn off 5.Clock can be turn off by bottom, itself, or "snoozing"|
+|Exceptions|1.If the alarm clock does not display in correct way, you can refresh the program and reset it   2.If the alarm clock does not generate noise by the correct way, the setting alarm has error then user can correct it 3.If the alarm does not turn off by the correct way, you can close the software and correct the alarm setting part|
 
 
