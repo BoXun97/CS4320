@@ -14,5 +14,6 @@
 ---
 
 |Scenario|Create a alarm clock include clock setting and alarm setting|
+|Triggering event|User can set alarm clock and turn off the alarm of clock|
 
 
